@@ -1,0 +1,3 @@
+# Main application uses only Python's standard library.
+# Development / testing dependency:
+pytest>=7.0
